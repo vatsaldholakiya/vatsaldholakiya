@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Vatsal Dholakiya
 - 👀 I’m interested in ... SDE
 - 🌱 I’m currently learning ... MERN Stack
-- 💞️ I’m looking to collaborate on ... Projects related to OR
+- 💞️ I’m looking to collaborate on ... Projects related to Operations Research
+- 📞 you can contact me [here](https://share.hsforms.com/12PDBJXTvRFKUMK5UGPE1vwcrygq)
 
 <!---
 vatsaldholakiya/vatsaldholakiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
